@@ -1,0 +1,18 @@
+table {
+    width: 100%;
+  }
+  
+  .mat-form-field {
+    font-size: 14px;
+    width: 100%;
+  }
+  
+  td, th {
+    width: 25%;
+  }
+  .mat-sort-header-sorted {
+    .mat-sort-header-arrow {
+      opacity: 1 !important;
+      transform: translateY(0px) !important;
+    }
+  }
